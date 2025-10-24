@@ -31,7 +31,7 @@ The Hippopotamus Optimization Algorithm is based on **three behavioral phases** 
 | **2. Defense Against Predators** | Coordinated defense maneuvers | Population diversity enhancement using Lévy flights |
 | **3. Escape Strategy** | Evasive movement from predators | Exploitation phase for local search near promising solutions |
 
-The algorithm dynamically switches between **exploration and exploitation** to maintain balance between global search and convergence.
+The algorithm dynamically switches between **exploration and exploitation** to maintain a balance between global search and convergence.
 
 Mathematically, HOA integrates random group-based movement, dynamic exponential decay (`exp(-t/T)`), and **Lévy distribution**-based jumps for non-linear exploration.
 
@@ -70,8 +70,8 @@ joblib >= 1.3
 cupy >= 13.0   # Optional, only for GPU acceleration
 
 ### Clone repository
-git clone https://github.com/yourusername/hippopotamus-optimization.git
-cd hippopotamus-optimization
+git clone https://github.com/MinhTuanDang/Hippopotamus-Optimization-Algorithm/
+cd Hippopotamus-Optimization-Algorithm
 
 # (Optional) Create a clean virtual environment
 python -m venv venv
