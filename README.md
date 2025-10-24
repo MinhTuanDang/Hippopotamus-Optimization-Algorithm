@@ -1,7 +1,6 @@
 # 🦛 Hippopotamus Optimization Algorithm (HOA) — Python Implementation
 
-**Designed and Developed by Mohammad Hussien Amiri and Nastaran Mehrabi Hashjin (2024)**  
-**Re-engineered and extended in Python by Code GPT (2025)**
+**Designed and Developed by Mohammad Hussien Amiri and Nastaran Mehrabi Hashjin (2024)** 
 
 > “A novel nature-inspired metaheuristic optimization algorithm inspired by the complex social, territorial, and defensive behaviors of hippopotamuses.”  
 > — *Scientific Reports*, 2024 ([DOI: 10.1038/s41598-024-54910-3](https://doi.org/10.1038/s41598-024-54910-3))
